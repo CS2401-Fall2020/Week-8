@@ -40,7 +40,11 @@ dfdeblasio (xx)
 If we then add the score `9201` for `"igastelum"` followed by the score `8834` for `"atberowitz"` (note the order is important) 
 the states would be 
 
+![After Step 3](/images/step3.png)
+
 after the first addition, then 
+
+![After Step 4](/images/step4.png)
 
 after the second addition. 
 
