@@ -63,6 +63,8 @@ atberowitz (8834.0)
 You will be completing two classes, one will contain the particular score nodes (`ScoreLLNode`) as well as a wrapper class (`ScoreLL`) that will contain the pointer to the most recently modified node. 
 `StringLL` will also contain the main print method which will call the recursive print nodes that we generated earlier. 
 
+**Do not change the method signatures, do not add methods other than the needed constructors.**
+
 ## `ScoreLL`
 This class will contain a single public `ScoreLLNode` object called `current`. 
 It will only have a default contructor, but this constructor does not need to do anything. 
