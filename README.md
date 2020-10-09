@@ -36,6 +36,21 @@ dfdeblasio (xx)
 
 (note that `printForward()` and `printReverse()` were defined in class and can be found in the `ScoresLLNode` class already)
 
-`"atberkowitz"`
-`"caalvarado"`
-`"igastelum"`
+
+If we then add the score `9201` for `"igastelum"` followed by the score `8834` for `"atberowitz"` (note the order is important) 
+the states would be 
+
+after the first addition, then 
+
+after the second addition. 
+
+Then when printed the output would be 
+```
+/->
+|
+\/
+atberowitz (8834)
+/\
+|
+\-> caalvarado (7686) <--> dfdeblasio (6451) <--> igastelum (9201) <--> saflores (6640.6666667) <--> 
+```
